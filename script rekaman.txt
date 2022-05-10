@@ -1,0 +1,64 @@
+Salam
+
+Perkenalkan nama saya..
+Dari program studi ...
+dengan NIM ....
+
+Pada kesempatan kali ini saya hendak mempresentasikan hasil dari proyek akhir atau responsi saya
+dari PPW yang diampu oleh Bapak Dinar
+
+Pertama2 saya akan menjelaskan terlebih dahulu apa yang sudah saya buat, saya membuat aplikasi
+untuk menyimpan daftar penghuni kos, anggap saja nama kos nya adalah kos aman sentosa. Fitur 
+yang dimiliki dari aplikasi yang saya buat adalah kurang lebih menggunakan konsep CRUD. Apa itu CRUD ?
+CRUD singkatan dari Create, Read, Update, dan Delete yaitu sebuah fungsi2 utama yang harus ada di dalam
+aplikasi database yang sudah kita buat. Nah di aplikasi yang saya buat, bisa menerapkan fungsi2 tersebut,
+antara lain aplikasi ini bisa menambah penghuni baru, bisa melihat data siapa saja yang sekarang
+sedang menyewa kamar kos, bisa mengubah data penghuni, dan menghapus data penghuni saat ini.
+Kurang lebih seperti itu.
+
+Dalam aplikasi ini saya menggunakan teknologi HTML, CSS, JS, PHP, SQL, dan Bootstrap. Setelah ini, saya akan
+mencoba mendemonstrasikan terlebih dahulu bagaimana jalannya aplikasi yang sudah saya buat lalu
+akan dilanjutkan dengan penjelasan kode-kode apa saja yang saya pakai.
+
+( demonstrasi )
+
+Nah seperti itu demonstrasi aplikasi yang sudah saya buat.
+
+Selanjutnya saya akan menjelaskan source code yang saya pakai dalam aplikasi saya.
+
+pertama, untuk HTML. Dalam page ini...
+
+
+Pada Proyek Akhir Matakuliah Praktikum Pemrograman Web 1 ini saya membuat "Aplikasi Daftar Penghuni Kos Aman Sentosa". Ide dari pembuatan aplikasi ini adalah saat saya memikirkan permasalahan yang dialami pemilik kos yaitu tidak bisa mengingat semua identitas penghuni kos yang ada. Karena permasalahan ini, saya mencoba mengimplementasikan sebuah solusi dengan menciptakan aplikasi ini.
+
+Aplikasi ini saya buat kurang lebih menggunakan Konsep CRUD. Apa itu CRUD ?
+CRUD singkatan dari Create, Read, Update, dan Delete yaitu sebuah fungsi2 utama yang harus ada di dalam aplikasi database yang sudah kita buat. Nah di aplikasi yang saya buat, bisa menerapkan fungsi2 tersebut, antara lain aplikasi ini bisa menambah penghuni kos baru, bisa melihat data siapa saja yang sekarang sedang menyewa kamar kos, bisa mengubah data penghuni kos, dan bisa menghapus data penghuni saat ini apabila ada yang sudah tidak menempati kos lagi.
+
+
+Selama 1 semester belajar Praktikum Pemrograman Web 1, saya sudah belajar HTML, CSS, Bootstrap, Javascript, PHP, dan Web Design. Dalam proyek akhir yang saya buat, alhamdulillah saya dapat menerapkan materi-materi tersebut. 
+
+1. Pertama, saya melakukan desain website/ UI Design terlebih dahulu dari materi yang telah diajarkan yaitu Web Design. 
+
+2. Kedua, saya menerapkan materi HTML untuk membuat kerangka dari halaman website. 
+
+3. Ketiga, saya tambahkan CSS dan Bootstrap untuk memberikan tampilan visual yang lebih baik pada halaman website. 
+
+4. Selanjutnya, saya menerapkan Javascript untuk memberikan perilaku-perilaku tertentu yang bisa dilakukan di sisi client. 
+
+5. Terakhir, saya menggunakan PHP agar bisa mengoneksikan antara data penghuni yang ada di database dengan website yang sudah dibuat agar bisa melakukan fungsi-fungsi CRUD.
+
+
+Beberapa materi yang tidak ada dalam praktikum namun saya terapkan dalam project adalah 
+
+1. Konsep CRUD itu sendiri, pada dasarnya, yang baru diajarkan adalah hanya fungsi READ, yaitu menampilkan data dari database. Namun, saya coba menerapkan semua fungsinya agar aplikasi yang saya buat lebih dinamis. 
+
+2. Mengimpor icon dari BoxIcons. Saya terapkan pada button untuk aksi CRUD pada halaman utama.
+
+3. Menggunakan atribut 'data-value' untuk menyimpan data yang dikirim dari sisi server.
+
+4. Menggunakan JSON.parse() untuk mengubah String menjadi JSON
+
+5. Penggunaan beberapa keyword umum SQL seperti UPDATE, DELETE, dan INSERT.
+
+
+https://drive.google.com/drive/folders/1Fsqxx9cvrAvlrM-zRDC3NkLRc_-X4MSo?usp=sharing
